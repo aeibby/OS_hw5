@@ -1,7 +1,9 @@
 # Operating Systems OS_hw5
 ## 21900842 Abigail Jenos Yong Wai Mun
 
-This project implements a simple file system using the FUSE (Filesystem in Userspace) library in C. The file system is designed to work with JSON configuration files, representing the file system structure.
+This project implements a simple file system using the FUSE (Filesystem in Userspace) library in C. The file system is designed to work with JSON configuration files, representing the file system structure.  
+Youtube link: https://youtu.be/RjgnzfelE3U  
+
 
 ## 1. Features
 
